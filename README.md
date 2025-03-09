@@ -2,6 +2,8 @@
 # Git & GitHub Mastery Handbook 📘  
 **By Mohamed Aziz Aydi**  
 *A Simplified Guide for Developers, by a Developer*  
+![Git Handbook Cover](./assets/git-handbook-cover.jpg)  
+
 
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/git-handbook?style=social)](https://github.com/yourusername/git-handbook)  
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)  
@@ -90,16 +92,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | ✉️ [Email](mailto:youremail@domain.com)  
 
 *Happy coding!* 🚀  
-```
-
----
-
-### **Preview**  
-![README Preview](https://via.placeholder.com/800x500.png/333/fff?text=Git+Handbook+Preview)  
-
-**How to Use**:  
-1. Replace `yourusername`, `yourprofile`, and `youremail@domain.com` with your details.  
-2. Add screenshots or diagrams to the `preview` section.  
-3. Customize sections to match your style!  
-
-This README is designed to be **eye-catching**, **informative**, and **developer-friendly**—perfect for attracting contributors and learners on GitHub! 🌟

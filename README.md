@@ -1,4 +1,4 @@
-```markdown
+
 # Git & GitHub Mastery Handbook 📘  
 **By Mohamed Aziz Aydi**  
 *A Simplified Guide for Developers, by a Developer*  

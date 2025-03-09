@@ -2,7 +2,7 @@
 # Git & GitHub Mastery Handbook 📘  
 **By Mohamed Aziz Aydi**  
 *A Simplified Guide for Developers, by a Developer*  
-![Git Handbook Cover](./assets/git-handbook-cover.jpg)  
+![Git Handbook Cover](/assets/git-handbook-cover.jpg)  
 
 
 [![GitHub Stars](https://img.shields.io/github/stars/yourusername/git-handbook?style=social)](https://github.com/yourusername/git-handbook)  
